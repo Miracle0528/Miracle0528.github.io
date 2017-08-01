@@ -19,11 +19,10 @@ cover_color: blue
 blog_button:
     title: Blog
     description: Visit blog
+    title：About me
+    description: Visit about me
 
 
-blog_button:
-    title: Blog
-    description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
