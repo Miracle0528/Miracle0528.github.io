@@ -1,8 +1,8 @@
 # Basic
 title: Iyang ' Blog  
-subtitle: eat！！！ sleep！！！ code！！！
+subtitle: 
 welcome_message:  欢迎来到iyang的博客，本站在github Pages上搭建。
-description: blog、code
+description: 
 creator: <a href="http://iyang.cc">@iyang</a>
 
 url: "http://iyang.cc"
@@ -16,6 +16,11 @@ highlighter: rouge
 cover_color: blue
 
 # The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+
 blog_button:
     title: Blog
     description: Visit blog
