@@ -19,14 +19,12 @@ cover_color: blue
 blog_button:
     title: Blog
     description: Visit blog
-    title：About me
-    description: Visit about me
 
 
 
 # Navigation buttons in the front page.
 nav:
-    - {title: About me, description: visit about me, url: 'http://www.iyang.cc/about'}
+    # - {title: About me, description: visit about me, url: 'http://www.iyang.cc/about'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
