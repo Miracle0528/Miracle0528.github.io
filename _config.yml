@@ -24,7 +24,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    # - {title: About me, description: visit about me, url: 'http://www.iyang.cc/about'}
+    - {title: 关于,        in_site: true,  description: 关于作者 Iyang,       url: '/info/about'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
